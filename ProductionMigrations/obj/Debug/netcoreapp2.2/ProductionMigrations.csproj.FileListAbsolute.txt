@@ -1,0 +1,12 @@
+C:\Development\AdvancedTemporalTables\ProductionMigrations\bin\Debug\netcoreapp2.2\ProductionMigrations.deps.json
+C:\Development\AdvancedTemporalTables\ProductionMigrations\bin\Debug\netcoreapp2.2\ProductionMigrations.dll
+C:\Development\AdvancedTemporalTables\ProductionMigrations\bin\Debug\netcoreapp2.2\ProductionMigrations.pdb
+C:\Development\AdvancedTemporalTables\ProductionMigrations\obj\Debug\netcoreapp2.2\ProductionMigrations.csprojAssemblyReference.cache
+C:\Development\AdvancedTemporalTables\ProductionMigrations\obj\Debug\netcoreapp2.2\ProductionMigrations.csproj.CoreCompileInputs.cache
+C:\Development\AdvancedTemporalTables\ProductionMigrations\obj\Debug\netcoreapp2.2\ProductionMigrations.AssemblyInfoInputs.cache
+C:\Development\AdvancedTemporalTables\ProductionMigrations\obj\Debug\netcoreapp2.2\ProductionMigrations.AssemblyInfo.cs
+C:\Development\AdvancedTemporalTables\ProductionMigrations\obj\Debug\netcoreapp2.2\ProductionMigrations.dll
+C:\Development\AdvancedTemporalTables\ProductionMigrations\obj\Debug\netcoreapp2.2\ProductionMigrations.pdb
+C:\Development\AdvancedTemporalTables\ProductionMigrations\bin\Debug\netcoreapp2.2\ContextAndMigrationControl.dll
+C:\Development\AdvancedTemporalTables\ProductionMigrations\bin\Debug\netcoreapp2.2\ContextAndMigrationControl.pdb
+C:\Development\AdvancedTemporalTables\ProductionMigrations\obj\Debug\netcoreapp2.2\ProductionMigrations.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Development\AdvancedTemporalTables\ContextAndMigrationControl\obj\Debug\netcoreapp2.2\ContextAndMigrationControl.csprojAssemblyReference.cache
+C:\Development\AdvancedTemporalTables\ContextAndMigrationControl\obj\Debug\netcoreapp2.2\ContextAndMigrationControl.csproj.CoreCompileInputs.cache
+C:\Development\AdvancedTemporalTables\ContextAndMigrationControl\obj\Debug\netcoreapp2.2\ContextAndMigrationControl.AssemblyInfoInputs.cache
+C:\Development\AdvancedTemporalTables\ContextAndMigrationControl\obj\Debug\netcoreapp2.2\ContextAndMigrationControl.AssemblyInfo.cs
+C:\Development\AdvancedTemporalTables\ContextAndMigrationControl\bin\Debug\netcoreapp2.2\ContextAndMigrationControl.deps.json
+C:\Development\AdvancedTemporalTables\ContextAndMigrationControl\bin\Debug\netcoreapp2.2\ContextAndMigrationControl.dll
+C:\Development\AdvancedTemporalTables\ContextAndMigrationControl\bin\Debug\netcoreapp2.2\ContextAndMigrationControl.pdb
+C:\Development\AdvancedTemporalTables\ContextAndMigrationControl\obj\Debug\netcoreapp2.2\ContextAndMigrationControl.dll
+C:\Development\AdvancedTemporalTables\ContextAndMigrationControl\obj\Debug\netcoreapp2.2\ContextAndMigrationControl.pdb
