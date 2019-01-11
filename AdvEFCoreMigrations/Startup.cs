@@ -10,6 +10,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using AdvEFCoreMigrations.Context;
+using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
+using Microsoft.EntityFrameworkCore.Migrations.Operations;
+using ContextAndMigrationControl.MigrationExtensions;
 
 namespace AdvEFCoreMigrations
 {
@@ -32,7 +36,7 @@ namespace AdvEFCoreMigrations
                 (serviceProvider, options) =>
                 options.UseSqlServer(Configuration.GetConnectionString("MyCompanyDBContextConnectionString")
               , x => x.MigrationsAssembly("DevMigrations")
-                ));
+                ).ReplaceService<IMigrationsSqlGenerator, MyMigrationsSqlGenerator>());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -24,11 +24,33 @@ namespace AdvEFCoreMigrations.Models
         public string duties2 { get; set; }
 
         public string tasks { get; set; }
-
+        public string PreventThisFieldsRenameWithReposition { get; set; }
         public string NewFieldForScriptGeneration { get; set; }
 
-        public string heighweight { get; set; }
+      
 
+        public string similartoheighwieth { get; set; }
+        public string ManipSnapshot { get; set; }
+
+        public string tryignoring { get; set; }
+
+        public string similartoheighwieth2 { get; set; }
+        public string ManipSnapshot2 { get; set; }
+
+        public string tryignoring2 { get; set; }
+
+        public string similartoheighwieth12 { get; set; }
+        public string ManipSnapshot12 { get; set; }
+
+        public string tryignoring12 { get; set; }
+
+        public string similartoheighwieth212 { get; set; }
+        public string ManipSnapshot212 { get; set; }
+
+        public string simple { get; set; }
+
+        public string simple2 { get; set; }
+        public string Addmore { get; set; }
 
     }
 }

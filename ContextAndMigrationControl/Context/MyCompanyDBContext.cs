@@ -9,5 +9,6 @@ using AdvEFCoreMigrations.Models;
         public MyCompanyDBContext(DbContextOptions<MyCompanyDBContext> options) : base (options) { }
 
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<Phone> Phones { get; set; }
     }
 }

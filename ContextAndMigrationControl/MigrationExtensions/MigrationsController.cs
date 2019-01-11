@@ -32,11 +32,8 @@ namespace AdvEFCoreMigrations.Migrations
 
         public static string  GetMigrationId(this MigrationBuilder migrationBuilder, Type t)
         {
-            MigrationAttribute MyAttribute =
-                (MigrationAttribute)Attribute.GetCustomAttribute(t, typeof(MigrationAttribute));
-          
+            MigrationAttribute MyAttribute = (MigrationAttribute)Attribute.GetCustomAttribute(t, typeof(MigrationAttribute)); 
             return MyAttribute.Id;
-
         }
 
         public static Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<Microsoft.EntityFrameworkCore.Migrations.Operations.SqlOperation>
